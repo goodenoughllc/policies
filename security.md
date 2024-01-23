@@ -2,6 +2,7 @@
 title: Security overview
 description: Keeping customer data safe and secure is a huge responsibility and a top priority for us. Here’s how we make it happen.
 layout: base
+permalink: /security/
 is_policy: true
 ---
 

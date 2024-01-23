@@ -2,6 +2,7 @@
 title: Use Restrictions Policy
 description: It is not okay to use 37signals products for these restricted purposes.
 layout: base
+permalink: /abuse/
 is_policy: true
 ---
 

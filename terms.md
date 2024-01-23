@@ -2,6 +2,7 @@
 title: Terms of Service
 description: All the terms that you agree to when you sign up for a 37signals product.
 layout: base
+permalink: /terms/
 is_policy: true
 ---
 

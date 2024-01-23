@@ -2,6 +2,7 @@
 title: California Resident Notice at Collection
 description: This document includes provisions for California residents.
 layout: base
+permalink: /ccpa/
 is_policy: true
 ---
 
