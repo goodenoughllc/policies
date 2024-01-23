@@ -32,6 +32,7 @@
 
     <style>
       .attribution { font-size: .85rem; }
+      .last-update { font-style: italic; }
     </style>
 
     <script src="https://kit.fontawesome.com/72d0ed3387.js" crossorigin="anonymous"></script>
@@ -108,6 +109,12 @@
 
       {% if page.is_policy %}
       <p><a href="{{ site.baseurl }}/">&larr; Good Enough Policies</a></p>
+      {% endif %}
+
+      <h1>{{ page.title }}</h1>
+
+      {% if page.last_update %}
+      <p class="last-update">Last updated: {{ page.last_update | date: "%B %-d, %Y" }}</p>
       {% endif %}
 
       {{ content }}
