@@ -44,3 +44,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+email_support: https://goodenough.us/contact
