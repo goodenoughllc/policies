@@ -6,8 +6,7 @@ permalink: /ccpa/
 is_policy: true
 ---
 
-# California Resident Notice at Collection
-If you are a California resident, the California Consumer Privacy Act, as amended by the California Privacy Rights Act of 2020 (“**CCPA**”), requires us to provide some additional information to California residents. This Section only applies to you if you are a California resident, although please note that this information and the rights afforded herein are the same as offered to our other users in our main Privacy Policy. This Section does not apply to personal information we collect from our employees and job applicants in their capacity as employees and job applicants, as such information practices are described in separate policies.
+If you are a California resident, the California Consumer Privacy Act, as amended by the California Privacy Rights Act of 2020 (“**CCPA**”), requires us to provide some additional information to California residents. This Section only applies to you if you are a California resident, although please note that this information and the rights afforded herein are the same as offered to our other users in our main Privacy Policy.
 
 The following chart details these activities:
 
@@ -31,7 +30,7 @@ The CCPA also allows you to limit the use or disclosure of your “sensitive per
 
 Please see the “Your rights with respect to your information” section of our Policy above for information about the additional rights you have with respect to your personal information under California law and how to exercise them.
 
-Retention of Your Personal Information. Please see the “Retention Of Your Information” section belowof our Privacy Policy for more information.
+Retention of Your Personal Information. Please see the “Retention Of Your Information” section in our [Privacy Policy](../privacy/) for more information.
 
 ## Shine the Light Disclosure
 
