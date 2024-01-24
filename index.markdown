@@ -10,8 +10,6 @@ Legal policies and documenation are boring, but they are imporant and we have tr
 - [Terms of Service](terms/)
 - [Privacy policy](privacy/)
 - [California Resident Notice at Collection](ccpa/)
-- [Cancellation policy](cancellation/)
-- [Refund policy](refund/)
 - [Use Restrictions policy](abuse/)
 - [Security overview](security/)
 - [Until the End of the Internet](until-the-end/)

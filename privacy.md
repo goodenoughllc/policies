@@ -121,7 +121,7 @@ All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Laye
 
 In many of our applications, we give you the option to delete content. Deleted content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed in your product accounts should be purged from all of our systems and logs within 90 days.
 
-If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-canceled accounts. Please refer to our [Cancellation policy](../cancellation/) for more details.
+If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-canceled accounts.
 
 ## Data retention
 
