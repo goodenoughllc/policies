@@ -1,5 +1,5 @@
 ---
-title: Good Enough Policies
+title: Introduction
 layout: base
 ---
 
@@ -7,7 +7,4 @@ We love to build software that we want to exist and we hope you'll love using th
 
 Legal policies and documenation are boring, but they are imporant and we have tried to keep them as clear, fair, and readable as possible.
 
-- [Terms of Service](terms/)
-- [Privacy policy](privacy/)
-- [California Resident Notice at Collection](ccpa/)
-- [Use Restrictions policy](abuse/)
+
