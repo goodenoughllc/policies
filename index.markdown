@@ -11,4 +11,3 @@ Legal policies and documenation are boring, but they are imporant and we have tr
 - [Privacy policy](privacy/)
 - [California Resident Notice at Collection](ccpa/)
 - [Use Restrictions policy](abuse/)
-- [Until the End of the Internet](until-the-end/)
