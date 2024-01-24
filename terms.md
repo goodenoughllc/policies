@@ -50,7 +50,7 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 
 ## Modifications to the Service and Prices
 
-1. We make a promise to our customers to support our Services [until the end of the Internet](../until-the-end/). That means when it comes to security, privacy, and customer support, we will continue to maintain any legacy Services. Sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
+1. We make a promise to our customers to support our Services (security, privacy, and customer support) for as long as its feasible to maintain them. Sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
 2. At some point, we may need to change the pricing structure for our products. When we do that, we may choose to exempt existing customers from those changes. In situations where we do choose to change the prices for existing customers, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about changes on our websites or the affected Services themselves.
 
 ## Uptime, Security, and Privacy
