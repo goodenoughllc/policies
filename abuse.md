@@ -1,16 +1,14 @@
 ---
 title: Use Restrictions Policy
-description: It is not okay to use 37signals products for these restricted purposes.
+description: It is not okay to use Good Enough products for these restricted purposes.
 layout: base
 permalink: /abuse/
 is_policy: true
 ---
 
-# Use Restrictions
-
 ## Restricted purposes
 
-When you use any of 37signals’ Services, you acknowledge that you may not:
+When you use any of Good Enough's services, you acknowledge that you may not:
 
 * Collect or extract information and/or user data from accounts which do not belong to you.
 * Circumvent, disable, or otherwise interfere with security-related features of the Services.
@@ -25,4 +23,4 @@ Accounts found to be in violation of any of the above are subject to cancellatio
 
 ## How to report abuse
 
-Violations can be reported by emailing [report@37signals.com](mailto:report@37signals.com) and should include detailed information about the account, the content or behavior you are reporting, and how you found it, including URLs or screenshots. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account. For copyright cases, please see instructions on [how to notify us about infringement claims](../copyright/index.md).
+Violations can be reported by [contacting us]({{ site.email_support }}) and should include detailed information about the account, the content or behavior you are reporting, and how you found it, including URLs or screenshots. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account. For copyright cases, please see instructions on [how to notify us about infringement claims](../copyright/).
