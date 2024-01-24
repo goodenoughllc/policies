@@ -115,7 +115,7 @@ Depending on applicable law, you may have the right to appeal our decision to de
 
 ## How we secure your data
 
-All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. In addition, we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security/). Most product data is not stored encrypted in our database (since they need to be ready to send to you when you need them).
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. In addition, we go to great lengths to secure your data at rest. Most product data is not stored encrypted in our database (since they need to be ready to send to you when you need them).
 
 ## What happens when you delete content in your product accounts
 
