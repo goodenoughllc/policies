@@ -23,7 +23,7 @@ This policy is split into sections. For your convenience, links to each of those
 * [When transferring personal data from the EU](#when-transferring-personal-data-from-the-eu)
 * [Changes and questions](#changes-and-questions)
 
-This policy applies to all products built and maintained by Good Enough LLC including Pika, Letterbird, Yay.Boo, Ponder, and Album Whale (together, “Good Enough”).
+This policy applies to all products built and maintained by Good Enough LLC including <a href="https://albumwhale.com/" target="_blank">Album Whale</a>, <a href="https://letterbird.co/" target="_blank">LetterBird</a>, <a href="https://pika.page" target="_blank">Pika</a>, <a href="https://ponder.us/" target="_blank">Ponder</a>, and <a href="https://yay.boo" target="_blank">Yay.Boo</a> (together, “Good Enough”).
 
 This policy applies to our handling of information about site visitors, prospective customers, and customers and authorized users (in relation to their procurement of the services and management of their relationship with Good Enough). We refer collectively to these categories of individuals as “you” throughout this policy.
 
