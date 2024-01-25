@@ -19,7 +19,7 @@ When we say "Services", we mean our websites, including [goodenough.us](https://
 
 When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
-We may update these Terms of Service ("Terms") in the future. You can track all changes made [on GitHub](https://github.com/goodenoughllc/policies/commits/main). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
+We may update these Terms of Service ("Terms") in the future. You can track all changes made [on GitHub](https://github.com/goodenoughllc/policies/commits/main/terms.md). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms. There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.**
 
