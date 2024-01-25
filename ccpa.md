@@ -3,7 +3,7 @@ title: California Resident Notice at Collection
 description: This document includes provisions for California residents.
 layout: base
 permalink: /ccpa/
-is_policy: true
+needs_attribution: true
 ---
 
 If you are a California resident, the California Consumer Privacy Act, as amended by the California Privacy Rights Act of 2020 (“**CCPA**”), requires us to provide some additional information to California residents. This Section only applies to you if you are a California resident, although please note that this information and the rights afforded herein are the same as offered to our other users in our main Privacy Policy.

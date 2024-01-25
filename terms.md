@@ -3,7 +3,7 @@ title: Terms of Service
 description: All the terms that you agree to when you sign up for a Good Enough product.
 layout: base
 permalink: /terms/
-is_policy: true
+needs_attribution: true
 last_update: 2023-01-23
 ---
 

@@ -3,7 +3,7 @@ title: Privacy policy
 description: Good Enough takes the privacy of your data seriously. Here’s the rundown of what we collect and why, when we access your information, and your rights.
 layout: base
 permalink: /privacy/
-is_policy: true
+needs_attribution: true
 last_update: 2023-01-23
 ---
 

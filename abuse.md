@@ -3,7 +3,7 @@ title: Use Restrictions Policy
 description: It is not okay to use Good Enough products for these restricted purposes.
 layout: base
 permalink: /abuse/
-is_policy: true
+needs_attribution: true
 ---
 
 ## Restricted purposes

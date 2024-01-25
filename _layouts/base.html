@@ -112,7 +112,9 @@
 
       {{ content }}
 
-      <p class="attribution">Our policies have been adapted from <a href="https://github.com/basecamp/policies">Basecamp's open-source policies</a> / CC BY 4.0. They seem quite good enough.</p>
+      {% if page.needs_attribution %}
+      <p class="attribution">This policy have been adapted from <a href="https://github.com/basecamp/policies">Basecamp's open-source policies</a> / CC BY 4.0. They seem quite good enough.</p>
+      {% endif %}
 
   <footer class="footer">
   <a href="javascript:history.back()" class="back-link"><i class="fa-regular fa-arrow-left fa-fw"></i>Back</a>
