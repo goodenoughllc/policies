@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-baseurl: "/policies"
-url: "goodenoughllc.github.io"
+baseurl: ""
+url: "policies.goodenough.us"
 
 # Build settings
 plugins:
