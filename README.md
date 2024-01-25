@@ -9,7 +9,7 @@ https://policies.goodenough.us/
 ## The policies
 
 * [Terms of Service](terms.md)
-* [Privacy policy](privacy.md)
+* [Privacy Policy](privacy.md)
 * [California Resident Notice at Collection](ccpa.md)
 * [Use Restrictions policy](abuse.md)
 

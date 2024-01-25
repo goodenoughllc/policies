@@ -1,5 +1,5 @@
 ---
-title: Privacy policy
+title: Privacy Policy
 description: Good Enough takes the privacy of your data seriously. Here’s the rundown of what we collect and why, when we access your information, and your rights.
 layout: base
 permalink: /privacy/
@@ -13,7 +13,7 @@ We have not and will never sell your data.
 
 This policy is split into sections. For your convenience, links to each of those sections is as follows:
 
-* [Privacy policy](#privacy-policy)
+* [Privacy Policy](#privacy-policy)
 * [What we collect and why](#what-we-collect-and-why)
 * [When we access or disclose your information](#when-we-access-or-disclose-your-information)
 * [Your rights with respect to your information](#your-rights-with-respect-to-your-information)
