@@ -3,12 +3,12 @@ title: Copyright infringement Claims
 description: How Good Enough handles copyright infringement claims.
 layout: base
 permalink: /copyright/
-is_policy: true
+needs_attribution: true
 ---
 
 ## Notification of Copyright Infringement Claims
 
-Making original work is hard! As described in our [Use Restrictions policy](../abuse/), you can’t use Good Enough products* to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
+Making original work is hard! As described in our [Use Restrictions Policy](../abuse/), you can’t use Good Enough products* to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
 
 Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C. § 512), you have the right to notify us (Good Enough, LLC) if you believe that an account user of any product we built and maintain has infringed on your work(s) as copyright owner. To be effective, the notification of claimed infringement must be written. Please include the following information:
 

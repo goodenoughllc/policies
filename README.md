@@ -11,7 +11,7 @@ https://policies.goodenough.us/
 * [Terms of Service](terms.md)
 * [Privacy Policy](privacy.md)
 * [California Resident Notice at Collection](ccpa.md)
-* [Use Restrictions policy](abuse.md)
+* [Use Restrictions Policy](abuse.md)
 
 
 ## Re: Email Links in this repository
