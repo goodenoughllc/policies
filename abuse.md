@@ -8,7 +8,7 @@ needs_attribution: true
 
 ## Restricted purposes
 
-When you use any of Good Enough's services, you acknowledge that you may not:
+When you use any of Good Enough’s services, you acknowledge that you may not:
 
 * Collect or extract information and/or user data from accounts which do not belong to you.
 * Circumvent, disable, or otherwise interfere with security-related features of the Services.

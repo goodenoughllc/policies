@@ -9,17 +9,15 @@ last_update: 2023-01-23
 
 Thank you for using our creations! We build software that we want to exist and we hope you'll love using the things we made.
 
-When you sign up for an account on a Good Enough creation, you are agreeing to these terms of service. These same terms cover everything Good Enough builds, including <a href="https://pika.page">Pika</a>, <a href="https://letterbird.co/">LetterBird</a>, <a href="https://yay.boo">Yay.Boo</a>, <a href="https://ponder.us/">Ponder</a>, and <a href="https://albumwhale.com/">Album Whale</a>.
+When you sign up for an account on a Good Enough creation, you are agreeing to these Terms of Service. These same terms cover everything Good Enough builds, including <a href="https://pika.page">Pika</a>, <a href="https://letterbird.co/">LetterBird</a>, <a href="https://yay.boo">Yay.Boo</a>, <a href="https://ponder.us/">Ponder</a>, and <a href="https://albumwhale.com/">Album Whale</a>.
 
----
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [Good Enough, LLC](https://goodenough.us).
 
-When we say "Company", "we", "our", or "us" in this document, we are referring to [Good Enough, LLC](https://goodenough.us).
-
-When we say "Services", we mean our websites, including [goodenough.us](https://goodenough.us), [pika.page](https://pika.page), [yay.boo](https://yay.boo), and any other product created and maintained by Good Enough LLC. That includes Pika, Letterbird, Yay.Boo, Ponder, and AlbumWhale, whether delivered within a web browser, desktop application, mobile application, or another format.</p>
+When we say “Services”, we mean our websites, including [goodenough.us](https://goodenough.us), [pika.page](https://pika.page), [yay.boo](https://yay.boo), and any other product created and maintained by Good Enough LLC. That includes Pika, Letterbird, Yay.Boo, Ponder, and AlbumWhale, whether delivered within a web browser, desktop application, mobile application, or another format.</p>
 
 When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
-We may update these Terms of Service ("Terms") in the future. You can track all changes made [on GitHub](https://github.com/goodenoughllc/policies/commits/main/terms.md). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
+We may update these Terms of Service (“Terms”) in the future. You can track all changes made [on GitHub](https://github.com/goodenoughllc/policies/commits/main/terms.md). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms. There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.**
 
@@ -30,7 +28,7 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 1. You are responsible for maintaining the security of your account and password and for ensuring that any of your users do the same. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 2. You may not use the Services for any purpose outlined in our [Use Restrictions Policy](../abuse/), and you may not permit any of your users to do so, either.
 3. You are responsible for all content posted to and activity that occurs under your account, including content posted by and activity of any users in your account.
-4. You must be a human. Accounts registered by "bots" or other automated methods are not permitted.
+4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
 ## Payment, Refunds, and Plan Changes
 
@@ -64,7 +62,7 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
   - **To safeguard Good Enough.** We’ll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/).
   - **To the extent required by applicable law.** As a US company with all data infrastructure located in the US, we only preserve or share customer data if compelled by a US government authority with a legally binding order or proper request under the Stored Communications Act, or in limited circumstances in the event of an emergency request. If a non-US authority approaches Good Ebough for assistance, our default stance is to refuse unless the order has been approved by the US government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism. If Good Enough were to be audited by a tax authority, we would only share the bare minimum billing information needed to complete the audit.
 5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services.
-6. Under the California Consumer Privacy Act (“CCPA”), Good Enough is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms, the [Privacy policy](../privacy/), and [other policies](../). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Good Enough's Services in a way that violates the regulations.
+6. Under the California Consumer Privacy Act (“CCPA”), Good Enough is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms, the [Privacy Policy](../privacy/), and [other policies](../). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Good Enough's Services in a way that violates the regulations.
 
 ## Copyright and Content Ownership
 

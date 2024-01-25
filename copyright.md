@@ -1,5 +1,5 @@
 ---
-title: Copyright infringement Claims
+title: Copyright Infringement Claims
 description: How Good Enough handles copyright infringement claims.
 layout: base
 permalink: /copyright/
