@@ -10,15 +10,58 @@ If you are a California resident, the California Consumer Privacy Act, as amende
 
 The following chart details these activities:
 
-| **Category of personal information** | **Purposes of use** | **Categories of Third Parties to Which We Discloses this Personal Information** | **Categories of Third Parties to Which We “Share” and “Sell” this Personal Information for Advertising/ Analytics Purposes** |
-| --- | --- | --- | --- |
-| Contact information (such as your full name, phone number, email address) | Provide the Services; Communicate with you; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention | Affiliated entities; Service providers; Entities for legal purposes | We do not share/sell |
-| Customer service interaction information (including optional surveys and when you ask for help) | Provide the Services; Communicate with you; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention | Affiliated entities; Service providers; Entities for legal purposes | We do not share/sell |
-| Product interaction information | Provide the Services; Communicate with you; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention | Affiliated entities; Service providers; Entities for legal purposes | We do not share/sell |
-| Internet network and device information (such as mobile device information, IP address, and information about your interaction with the services) | Provide the Services; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention | Affiliated entities; Service providers; Entities for legal purposes; | We do not share/sell |
-| Login information (such as your username and password) | Provide the Services; Comply with law or defend our legal rights; Security/fraud prevention; Comply with law or defend our legal rights | Affiliated entities; Service providers; Entities for legal purposes | We do not share/sell |
-| Professional or employment information (such as the name and address of the company you work for and your title) | Provide the Services; Communicate with you; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention | Affiliated entities; Service providers; Entities for legal purposes; | We do not share/sell |
-| Other information (any other information you choose to provide directly to us, including optional profile photos) | Provide the Services; Communicate with you; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention | Affiliated entities; Service providers; Entities for legal purposes; | We do not sell/share |
+<div class="table-wrapper">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <th>Category of personal information</th>
+      <th>Purposes of use</th>
+      <th>Categories of Third Parties to Which We Discloses this Personal Information</th>
+      <th>Categories of Third Parties to Which We “Share” and “Sell” this Personal Information for Advertising/ Analytics Purposes</th>
+    </tr>
+    <tr>
+      <td>Contact information (such as your full name, phone number, email address)</td>
+      <td>Provide the Services; Communicate with you; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention</td>
+      <td>Affiliated entities; Service providers; Entities for legal purposes;</td>
+      <td>We do not share/sell</td>
+    </tr>
+    <tr>
+      <td>Customer service interaction information (including optional surveys and when you ask for help)</td>
+      <td>Provide the Services; Communicate with you; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention</td>
+      <td>Affiliated entities; Service providers; Entities for legal purposes;</td>
+      <td>We do not share/sell</td>
+    </tr>
+    <tr>
+      <td>Product interaction information</td>
+      <td>Provide the Services; Communicate with you; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention</td>
+      <td>Affiliated entities; Service providers; Entities for legal purposes;</td>
+      <td>We do not share/sell</td>
+    </tr>
+    <tr>
+      <td>Internet network and device information (such as mobile device information, IP address, and information about your interaction with the services)</td>
+      <td>Provide the Services; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention</td>
+      <td>Affiliated entities; Service providers; Entities for legal purposes;</td>
+      <td>We do not share/sell</td>
+    </tr>
+    <tr>
+      <td>Login information (such as your username and password)</td>
+      <td>Provide the Services; Comply with law or defend our legal rights; Security/fraud prevention; Comply with law or defend our legal rights</td>
+      <td>Affiliated entities; Service providers; Entities for legal purposes;</td>
+      <td>We do not share/sell</td>
+    </tr>
+    <tr>
+      <td>Professional or employment information (such as the name and address of the company you work for and your title)</td>
+      <td>Provide the Services; Communicate with you; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention</td>
+      <td>Affiliated entities; Service providers; Entities for legal purposes;</td>
+      <td>We do not share/sell</td>
+    </tr>
+    <tr>
+      <td>Other information (any other information you choose to provide directly to us, including optional profile photos)</td>
+      <td>Provide the Services; Communicate with you; Analyze use of and improve the services; With your consent; Comply with law or defend our legal rights; Security/fraud prevention</td>
+      <td>Affiliated entities; Service providers; Entities for legal purposes;</td>
+      <td>We do not share/sell</td>
+    </tr>
+  </table>
+</div>
 
 For more information about each category of personal information, purpose of use, and third parties to which we disclose personal information, please see the “What we collect and why,” and “When we access or disclose you information” sections of our Privacy Policy.
 

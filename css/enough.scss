@@ -225,25 +225,28 @@ main {
   }
 }
 
-table {
-  border: 0;
-  margin-inline: -30%;
-}
-tbody tr:nth-child(odd) {
-  background-color: #CBCBCB;
-}
-tbody tr:nth-child(even){
-  background-color: #DEDEDE;
-}
-td, th {
-  text-align: left;
-}
-th {
-  font-size: .85rem;
-  vertical-align: bottom;
-}
-td {
-  vertical-align: top;
+.table-wrapper {
+  margin-block: var(--margin2x);
+  overflow: auto;
+  table {
+    border-left: 1px solid var(--color-txt-half);
+    border-top: 1px solid var(--color-txt-half);
+    table-layout: auto;
+    width: 1000px;
+  }
+  th, td {
+    border-bottom: 1px solid var(--color-txt-half);
+    border-right: 1px solid var(--color-txt-half);
+    padding: 0.5rem;
+    text-align: left;
+    width: 1%;
+  }
+  @media (min-width: 900px) {
+    margin-inline: -15vw;
+    table {
+      width: auto;
+    }
+  }
 }
 
 
