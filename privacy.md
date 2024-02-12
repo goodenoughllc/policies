@@ -65,7 +65,7 @@ Good Enough runs contextual ads on various third-party platforms such as Google,
 
 We also use persistent first-party cookies and some third-party cookies to store certain preferences, make it easier for you to use our applications, and perform A/B testing as well as support some analytics.
 
-A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings and accept or block individual cookies in your browser settings, although our apps won’t work and other aspects of our service may not function properly if you turn cookies off.
+A cookie is a piece of text stored by your browser, which may be used to remember login information and site preferences. They may also be used to collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings and accept or block individual cookies in your browser settings or by using browser plugins such as ad blockers. Though, it should be noted that turning cookies _completely_ off won't allow us to track things like whether or not you've logged in.
 
 ### Voluntary correspondence
 
