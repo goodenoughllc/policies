@@ -9,11 +9,11 @@ last_update: 2023-01-23
 
 Thank you for using our creations! We build software that we want to exist and we hope you'll love using the things we made.
 
-When you sign up for an account on a Good Enough creation, you are agreeing to these Terms of Service. These same terms cover everything Good Enough builds, including <a href="https://albumwhale.com/" target="_blank">Album Whale</a>, <a href="https://letterbird.co/" target="_blank">LetterBird</a>, <a href="https://pika.page" target="_blank">Pika</a>, <a href="https://ponder.us/" target="_blank">Ponder</a>, and <a href="https://yay.boo" target="_blank">Yay.Boo</a>.
+When you sign up for an account on a Good Enough creation, you are agreeing to these Terms of Service. These same terms cover everything Good Enough builds, including <a href="https://albumwhale.com/" target="_blank">Album Whale</a>, <a href="https://letsjelly.com" target="_blank">Jelly</a>, <a href="https://letterbird.co/" target="_blank">Letterbird</a>, <a href="https://pika.page" target="_blank">Pika</a>, <a href="https://ponder.us/" target="_blank">Ponder</a>, and <a href="https://yay.boo" target="_blank">Yay.Boo</a>.
 
 When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [Good Enough LLC](https://goodenough.us).
 
-When we say “Services”, we mean our websites, including [goodenough.us](https://goodenough.us), [pika.page](https://pika.page), [yay.boo](https://yay.boo), and any other product created and maintained by Good Enough LLC. That includes Pika, Letterbird, Yay.Boo, Ponder, and AlbumWhale, whether delivered within a web browser, desktop application, mobile application, or another format.</p>
+When we say “Services”, we mean our websites, including [goodenough.us](https://goodenough.us), [letsjelly.com](https://letsjelly.com), [pika.page](https://pika.page), and any other product created and maintained by Good Enough LLC. That includes Album Whale, Jelly, Letterbird, Pika, Ponder, and Yay.Boo, whether delivered within a web browser, desktop application, mobile application, or another format.</p>
 
 When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
