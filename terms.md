@@ -4,7 +4,7 @@ description: All the terms that you agree to when you sign up for a Good Enough 
 layout: base
 permalink: /terms/
 needs_attribution: true
-last_update: 2023-01-23
+last_update: 2024-11-11
 ---
 
 Thank you for using our creations! We build software that we want to exist and we hope you'll love using the things we made.
@@ -41,7 +41,7 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 ## Cancellation and Termination
 
 1. You are solely responsible for properly canceling your account. Within each of our Services, we provide a simple no-questions-asked cancellation link. An email or phone request to cancel your account is not automatically considered cancellation. If you need help canceling your account, you can always [contact us]({{ site.email_support }}).
-2. All of your content will be inaccessible from the Services immediately upon account cancellation. Within 30 days, all content will be permanently deleted from active systems and logs. Within 60 days, all content will be permanently deleted from our backups. We cannot recover this information once it has been permanently deleted.
+2. All of your content will be inaccessible from the Services immediately upon account cancellation and, in most cases, your content is also permanently deleted from active systems. Within 100 days, all content will be permanently deleted from our backups. We cannot recover this information once it has been permanently deleted.
 3. If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately, and you will not be charged again. We do not automatically prorate unused time in the last billing cycle.
 4. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you and any other users on your account will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. We have this clause because statistically speaking, out of the hundreds of thousands of accounts on our Services, there is at least one doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. For more details, see our [Use Restrictions Policy](../abuse/).
 5. Verbal, physical, written or other abuse (including threats of abuse or retribution) of a Company employee or officer will result in immediate account termination.
