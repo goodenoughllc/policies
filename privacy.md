@@ -4,7 +4,7 @@ description: Good Enough takes the privacy of your data seriously. Here’s the 
 layout: base
 permalink: /privacy/
 needs_attribution: true
-last_update: 2023-01-23
+last_update: 2024-11-11
 ---
 
 The privacy of your data is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data.
@@ -118,7 +118,7 @@ All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Laye
 
 ## What happens when you delete content in your product accounts
 
-In many of our applications, we give you the option to delete content. Deleted content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed in your product accounts should be purged from all of our systems and logs within 90 days.
+In many of our applications, we give you the option to delete content. Deleted content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 70 days after that. Altogether, any content trashed in your product accounts should be purged from all of our systems and logs within 100 days.
 
 If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-canceled accounts.
 
