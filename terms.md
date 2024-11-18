@@ -4,18 +4,16 @@ description: All the terms that you agree to when you sign up for a Good Enough 
 layout: base
 permalink: /terms/
 needs_attribution: true
-last_update: 2024-11-11
+last_update: 2024-11-18
 ---
 
 Thank you for using our creations! We build software that we want to exist and we hope you'll love using the things we made.
 
 When you sign up for an account on a Good Enough creation, you are agreeing to these Terms of Service. These same terms cover everything Good Enough builds, including <a href="https://albumwhale.com/" target="_blank">Album Whale</a>, <a href="https://letsjelly.com" target="_blank">Jelly</a>, <a href="https://letterbird.co/" target="_blank">Letterbird</a>, <a href="https://pika.page" target="_blank">Pika</a>, <a href="https://ponder.us/" target="_blank">Ponder</a>, and <a href="https://yay.boo" target="_blank">Yay.Boo</a>.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [Good Enough LLC](https://goodenough.us).
+These Terms of Service (the “Terms”), in conjunction with our <a href="{{ site.baseurl }}/privacy/">Privacy Policy</a> are the entire Agreement between [Good Enough, LLC](https://goodenough.us) (“Company” or “We”) and you (“You” or the “User”). In addition, by this reference <a href="https://letsjelly.com/policies/dpa">Jelly incorporates a Data Processing Addendum</a> (the “DPA”).
 
 When we say “Services”, we mean our websites, including [goodenough.us](https://goodenough.us), [letsjelly.com](https://letsjelly.com), [pika.page](https://pika.page), and any other product created and maintained by Good Enough LLC. That includes Album Whale, Jelly, Letterbird, Pika, Ponder, and Yay.Boo, whether delivered within a web browser, desktop application, mobile application, or another format.</p>
-
-When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
 We may update these Terms of Service (“Terms”) in the future. You can track all changes made [on GitHub](https://github.com/goodenoughllc/policies/commits/main/terms.md). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
