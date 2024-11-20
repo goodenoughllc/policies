@@ -201,14 +201,17 @@ main {
     justify-content: space-between;
     .top-link,
     .newsletter-link,
-    .mastodon-link,
-    .threads-link,
+    .bluesky-link,
     .name-link {
       grid-row: 2 / 2;
     }
     .threads-link {
       grid-column: 3 / 3;
       grid-row: 3 / 3;
+    }
+    .twitter-link {
+      grid-column: 3 / 3;
+      grid-row: 4 / 4;
     }
   }
   a {
