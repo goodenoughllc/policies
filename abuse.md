@@ -4,6 +4,7 @@ description: It is not okay to use Good Enough products for these restricted pur
 layout: base
 permalink: /abuse/
 needs_attribution: true
+last_update: 2024-01-24
 ---
 
 ## Restricted purposes

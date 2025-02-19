@@ -21,7 +21,7 @@ If you try to click on any of the contact links in this repository, you’ll get
 
 ## Your Contributions Welcome
 
-We welcome your suggestions and questions regardingour policies. Please do chime in on any open pull request, or even file a pull request yourself.
+We welcome your suggestions and questions regarding our policies. Please do chime in on any open pull request, or even file a pull request yourself.
 
 
 ## Many of These Policies Were ~~Stolen~~ Borrowed

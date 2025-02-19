@@ -4,6 +4,7 @@ description: This document includes provisions for California residents.
 layout: base
 permalink: /ccpa/
 needs_attribution: true
+last_update: 2024-01-24
 ---
 
 If you are a California resident, the California Consumer Privacy Act, as amended by the California Privacy Rights Act of 2020 (“**CCPA**”), requires us to provide some additional information to California residents. This Section only applies to you if you are a California resident, although please note that this information and the rights afforded herein are the same as offered to our other users in our main Privacy Policy.
@@ -15,7 +16,7 @@ The following chart details these activities:
     <tr>
       <th>Category of personal information</th>
       <th>Purposes of use</th>
-      <th>Categories of Third Parties to Which We Discloses this Personal Information</th>
+      <th>Categories of Third Parties to Which We Disclose this Personal Information</th>
       <th>Categories of Third Parties to Which We “Share” and “Sell” this Personal Information for Advertising/ Analytics Purposes</th>
     </tr>
     <tr>
