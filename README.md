@@ -24,8 +24,8 @@ If you try to click on any of the contact links in this repository, you’ll get
 We welcome your suggestions and questions regarding our policies. Please do chime in on any open pull request, or even file a pull request yourself.
 
 
-## Many of These Policies Were ~~Stolen~~ Borrowed
+## Many of These Policies Were ~~Stolen~~ ~~Borrowed~~ Adapted
 
-Many of our policies have been adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you don’t see this attribution at the bottom of the doc, the page is our own.
+Many of our policies have been adapted from [Basecamp’s open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you don’t see this attribution at the bottom of the doc, the page is our own.
 
 We really appreciate that basecamp released these policies in the open. Small businesses releasing software on the internet are subject to a myriad of rules, regulations, and other concerns -- starting our policies from a place that has been vetted by a company with the size and reach of 37signals is really awesome.
