@@ -9,11 +9,11 @@ last_update: 2024-11-18
 
 Thank you for using our creations! We build software that we want to exist and we hope you'll love using the things we made.
 
-When you sign up for an account on a Good Enough creation, you are agreeing to these Terms of Service. These same terms cover everything Good Enough builds, including <a href="https://albumwhale.com/?utm_source=ge_policies&utm_medium=ge_policies_terms" target="_blank">Album Whale</a>, <a href="https://letterbird.co/?utm_source=ge_policies&utm_medium=ge_policies_terms" target="_blank">Letterbird</a>, <a href="https://pika.page?utm_source=ge_policies&utm_medium=ge_policies_terms" target="_blank">Pika</a>, <a href="https://ponder.us/?utm_source=ge_policies&utm_medium=ge_policies_terms" target="_blank">Ponder</a>, and <a href="https://yay.boo?utm_source=ge_policies&utm_medium=ge_policies_terms" target="_blank">Yay.Boo</a>.
+When you sign up for an account on a Good Enough creation, you are agreeing to these Terms of Service. These same terms cover everything Good Enough builds, including <a href="https://albumwhale.com/?utm_source=ge_policies&utm_medium=ge_policies_terms" target="_blank">Album Whale</a>, <a href="https://letterbird.co/?utm_source=ge_policies&utm_medium=ge_policies_terms" target="_blank">Letterbird</a>, and <a href="https://pika.page?utm_source=ge_policies&utm_medium=ge_policies_terms" target="_blank">Pika</a>.
 
 These Terms of Service (the “Terms”), in conjunction with our <a href="{{ site.baseurl }}/privacy/">Privacy Policy</a> are the entire Agreement between [Good Enough LLC](https://goodenough.us) (“Company” or “We”) and you (“You” or the “User”).
 
-When we say “Services”, we mean our websites, including [goodenough.us](https://goodenough.us) and any other product created and maintained by Good Enough LLC. That includes Album Whale, Letterbird, Pika, Ponder, and Yay.Boo, whether delivered within a web browser, desktop application, mobile application, or another format.
+When we say “Services”, we mean our websites, including [goodenough.us](https://goodenough.us) and any other product created and maintained by Good Enough LLC. That includes Album Whale, Letterbird, and Pika, whether delivered within a web browser, desktop application, mobile application, or another format.
 
 We may update these Terms of Service (“Terms”) in the future. You can track all changes made [on GitHub](https://github.com/goodenoughllc/policies/commits/main/terms.md). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
