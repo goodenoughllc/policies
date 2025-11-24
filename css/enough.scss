@@ -197,7 +197,6 @@ main {
   padding-top: var(--margin1x);
   @media (min-width: 40rem) {
     display: grid;
-    grid-template-columns: 9ch 14ch 12ch 20ch;
     justify-content: space-between;
     .top-link,
     .newsletter-link,
