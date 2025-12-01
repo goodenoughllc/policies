@@ -10,7 +10,7 @@ needs_attribution: true
 
 Making original work is hard! As described in our [Use Restrictions Policy](../abuse/), you can’t use Good Enough products* to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
 
-Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C. § 512), you have the right to notify us (Good Enough LLC) if you believe that an account user of any product we built and maintain has infringed on your work(s) as copyright owner. To be effective, the notification of claimed infringement must be written. Please include the following information:
+Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C. § 512), you have the right to notify us (We Are Good Enough LLC) if you believe that an account user of any product we built and maintain has infringed on your work(s) as copyright owner. To be effective, the notification of claimed infringement must be written. Please include the following information:
 
 - A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 - Identification of the copyrighted work(s) claimed to have been infringed. If there are multiple, please share a representative list of those works.
@@ -37,9 +37,9 @@ You can notify us of either copyright infringement claims or DCMA counter-notifi
 
 **By email**: [through our contact form]({{ site.email_support }})
 
-**By mail**: Good Enough LLC
+**By mail**: We Are Good Enough LLC
 PO Box 174
 Owatonna MN 55060-0174
 USA
 
-*This policy and process applies to any product created and owned by Good Enough LLC. That includes <a href="https://albumwhale.com/?utm_source=ge_policies&utm_medium=ge_policies_copyright" target="_blank">Album Whale</a>, <a href="https://letterbird.co/?utm_source=ge_policies&utm_medium=ge_policies_copyright" target="_blank">Letterbird</a>, <a href="https://pika.page?utm_source=ge_policies&utm_medium=ge_policies_copyright" target="_blank">Pika</a>, <a href="https://ponder.us/?utm_source=ge_policies&utm_medium=ge_policies_copyright" target="_blank">Ponder</a>, and <a href="https://yay.boo?utm_source=ge_policies&utm_medium=ge_policies_copyright" target="_blank">Yay.Boo</a>.*
+*This policy and process applies to any product created and owned by We Are Good Enough LLC. That includes <a href="https://albumwhale.com/?utm_source=ge_policies&utm_medium=ge_policies_copyright" target="_blank">Album Whale</a>, <a href="https://letterbird.co/?utm_source=ge_policies&utm_medium=ge_policies_copyright" target="_blank">Letterbird</a>, and <a href="https://pika.page?utm_source=ge_policies&utm_medium=ge_policies_copyright" target="_blank">Pika</a>.*
