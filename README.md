@@ -23,6 +23,6 @@ We welcome your [feedback and questions](https://policies.goodenough.us/contact)
 
 ## Many of These Policies Were ~~Stolen~~ ~~Borrowed~~ Adapted
 
-Many of our policies have been adapted from [Basecamp’s open-source policies](https://github.com/basecamp/policies) and [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you don’t see this attribution at the bottom of the doc, the page is our own.
+Many of our policies have been adapted from [Basecamp’s open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you don’t see this attribution at the bottom of the doc, the page is our own.
 
 We really appreciate that Basecamp released these policies in the open. Small businesses releasing software on the internet are subject to a myriad of rules, regulations, and other concerns -- starting our policies from a place that has been vetted by a company with the size and reach of 37signals is really awesome.

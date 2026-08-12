@@ -13,28 +13,24 @@ Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C.
 - A statement that you, in good faith, believe that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 - A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-## Digital Millennium Copyright Act (“DCMA”) Counter-notifications
+## Digital Millennium Copyright Act (“DMCA”) Counter-notifications
 
 On the flip-side, if you believe your material has been removed in error, you can file a written counter-notification. Please include the following information:
 
 - A physical or electronic signature, or the signature of the person authorized to act on your behalf.
 - A description of the material that was removed.
-- A description of where the material appeared in Basecamp products prior to their removal.
+- A description of where the material appeared in Good Enough products prior to their removal.
 - Your name and contact information so that we can get back to you. Email address is preferred but a telephone number or mailing address works too.
 - A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification.
-- A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, in the Northern District of Illinois (where Basecamp is located).
+- A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, in the United States District Court for the District of Minnesota.
 - A statement that you will accept service of process from the person who filed the original DMCA notice or an agent of that person. (In other words, you’ve designated that person to receive documents on your behalf.)
 
 ## Where to Send Notices
 
-You can notify us of either copyright infringement claims or DCMA counter-notifications through either of the following channels:
+You can notify us of either copyright infringement claims or DMCA counter-notifications through either of the following channels:
 
-**By email**: [through our contact form](https://policies.goodenough.us/contact)
-
-**By mail**: We Are Good Enough LLC
-PO Box 174
-Owatonna MN 55060-0174
-USA
+* **By email**: [Through our email contact form](https://policies.goodenough.us/contact)
+* **By mail**: We Are Good Enough LLC, PO Box 174, Owatonna MN 55060-0174 USA
 
 *This policy and process applies to any product created and owned by We Are Good Enough LLC. That includes [Album Whale](https://albumwhale.com/), [Letterbird](https://letterbird.co/), and [Pika](https://pika.page/).*
 
