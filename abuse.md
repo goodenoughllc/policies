@@ -1,11 +1,6 @@
----
-title: Use Restrictions Policy
-description: It is not okay to use Good Enough products for these restricted purposes.
-layout: base
-permalink: /abuse/
-needs_attribution: true
-last_update: 2024-01-24
----
+# Use Restrictions Policy
+
+*Last updated: January 24, 2024*
 
 ## Restricted purposes
 
@@ -24,4 +19,6 @@ Accounts found to be in violation of any of the above are subject to cancellatio
 
 ## How to report abuse
 
-Violations can be reported by [contacting us]({{ site.email_support }}) and should include detailed information about the account, the content or behavior you are reporting, and how you found it, including URLs or screenshots. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account. For copyright cases, please see instructions on [how to notify us about infringement claims](../copyright/).
+Violations can be reported by [contacting us](https://policies.goodenough.us/contact) and should include detailed information about the account, the content or behavior you are reporting, and how you found it, including URLs or screenshots. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account. For copyright cases, please see instructions on [how to notify us about infringement claims](copyright.md).
+
+*This policy has been adapted from [Basecamp’s open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). They seem quite good enough.*

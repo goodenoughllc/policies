@@ -1,11 +1,6 @@
----
-title: Privacy Policy
-description: Good Enough takes the privacy of your data seriously. Here’s the rundown of what we collect and why, when we access your information, and your rights.
-layout: base
-permalink: /privacy/
-needs_attribution: true
-last_update: 2024-11-11
----
+# Privacy Policy
+
+*Last updated: November 11, 2024*
 
 The privacy of your data is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data.
 
@@ -23,7 +18,7 @@ This policy is split into sections. For your convenience, links to each of those
 * [When transferring personal data from the EU](#when-transferring-personal-data-from-the-eu)
 * [Changes and questions](#changes-and-questions)
 
-This policy applies to all products built and maintained by We Are Good Enough LLC including <a href="https://albumwhale.com/?utm_source=ge_policies&utm_medium=ge_policies_privacy" target="_blank">Album Whale</a>, <a href="https://letterbird.co/?utm_source=ge_policies&utm_medium=ge_policies_privacy" target="_blank">Letterbird</a>, and <a href="https://pika.page?utm_source=ge_policies&utm_medium=ge_policies_privacy" target="_blank">Pika</a> (together, “Good Enough”).
+This policy applies to all products built and maintained by We Are Good Enough LLC including [Album Whale](https://albumwhale.com/), [Letterbird](https://letterbird.co/), and [Pika](https://pika.page/) (together, “Good Enough”).
 
 This policy applies to our handling of information about site visitors, prospective customers, and customers and authorized users (in relation to their procurement of the services and management of their relationship with Good Enough). We refer collectively to these categories of individuals as “you” throughout this policy.
 
@@ -31,7 +26,7 @@ However, this policy does not cover information about a customer’s end users t
 
 If you are a customer’s end user and you have questions about how your information is collected and processed through the services, please contact the organization who has provided your information to us for more information.
 
-If you are a California resident, please [click here to see our California Notice at Collection](../ccpa/), which includes additional disclosures as required by California law.
+If you are a California resident, please [click here to see our California Notice at Collection](ccpa.md), which includes additional disclosures as required by California law.
 
 ## What we collect and why
 
@@ -77,7 +72,7 @@ We also store information you may volunteer, for example, written responses to s
 
 **To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our billing system.
 
-**To investigate, prevent, or take action regarding [restricted uses](../abuse/).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
+**To investigate, prevent, or take action regarding [restricted uses](abuse.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
 
 **Aggregated and de-identified data.** We may aggregate and/or de-identify information collected through the services. We may use de-identified or aggregated data for any purpose, including marketing or analytics.
 
@@ -108,7 +103,7 @@ At Good Enough, we strive to apply the same data rights to all customers, regard
 
 Many of these rights can be exercised by signing in and updating your account information. Please note that certain information may be exempt from such requests under applicable law. For example, we need to retain certain information in order to provide our services to you.
 
-In some cases, we also need to take reasonable steps to verify your identity before responding to a request, which may include, at a minimum, depending on the sensitivity of the information you are requesting and the type of request you are making, verifying your name and email address. If we are unable to verify you, we may be unable to respond to your requests. If you have questions about exercising these rights or need assistance, please [contact us via email]({{ site.email_support }}) or at We Are Good Enough LLC, PO Box 174, Owatonna MN 55060-0174 USA. If an authorized agent is corresponding on your behalf, we will need written consent with a signature from the account holder before proceeding.
+In some cases, we also need to take reasonable steps to verify your identity before responding to a request, which may include, at a minimum, depending on the sensitivity of the information you are requesting and the type of request you are making, verifying your name and email address. If we are unable to verify you, we may be unable to respond to your requests. If you have questions about exercising these rights or need assistance, please [contact us via email](https://policies.goodenough.us/contact) or at We Are Good Enough LLC, PO Box 174, Owatonna MN 55060-0174 USA. If an authorized agent is corresponding on your behalf, we will need written consent with a signature from the account holder before proceeding.
 
 Depending on applicable law, you may have the right to appeal our decision to deny your request, if applicable. We will provide information about how to exercise that right in our response denying the request. You also have the right to lodge a complaint with a supervisory authority. If you are in the EU or UK, you can contact your data protection authority to file a complaint or learn more about local privacy laws.
 
@@ -136,6 +131,8 @@ The European Data Protection Board (EDPB) has issued guidance that personal data
 
 ## Changes and questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/goodenoughllc/policies/commits/main/privacy.md). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/goodenoughllc/policies/). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
 Have any questions, comments, or concerns about this Privacy Policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [hello@goodenough.us](mailto:hello@goodenough.us) and we’ll be happy to try to answer them!
+
+*This policy has been adapted from [Basecamp’s open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). They seem quite good enough.*
